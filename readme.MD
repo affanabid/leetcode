@@ -12,6 +12,7 @@ I am currently following the **LeetCode 75** study plan and solving **two proble
 - 1768 - Merge Strings Alternatively
 - 151 - Reverse Words in a String
 - 1071 - Greatest Common Divisor of Strings
+- 1431 - Kids with greatest number of candies
 
 ## Language
 - Python
