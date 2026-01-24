@@ -15,6 +15,7 @@ I am currently following the **LeetCode 75** study plan and solving **two proble
 - 1431 - Kids with greatest number of candies
 - 238 - Product of Array except self
 - 605 - Can Place Flowers
+- 345 - Reverse Vowels of a String
 
 ## Language
 - Python
