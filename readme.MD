@@ -17,6 +17,7 @@ I am currently following the **LeetCode 75** study plan and solving **two proble
 - 605 - Can Place Flowers
 - 345 - Reverse Vowels of a String
 - 443 - String Compression
+- 283 - Move Zeroes
 
 ## Language
 - Python
