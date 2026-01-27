@@ -18,6 +18,7 @@ I am currently following the **LeetCode 75** study plan and solving **two proble
 - 345 - Reverse Vowels of a String
 - 443 - String Compression
 - 283 - Move Zeroes
+- 1679 - Max Number of K-Sum Pairs
 
 ## Language
 - Python
