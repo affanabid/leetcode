@@ -19,6 +19,7 @@ I am currently following the **LeetCode 75** study plan and solving **two proble
 - 443 - String Compression
 - 283 - Move Zeroes
 - 1679 - Max Number of K-Sum Pairs
+- 334 - Increasing Triplet Subsequence
 
 ## Language
 - Python
