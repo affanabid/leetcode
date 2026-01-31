@@ -9,19 +9,20 @@ I am currently following the **LeetCode 75** study plan and solving **two proble
 - 2 problems everyday
 
 ## Problems Solved
-- 1768. Merge Strings Alternatively
-- 151. Reverse Words in a String
-- 1071. Greatest Common Divisor of Strings
-- 1431. Kids with greatest number of candies
-- 238. Product of Array except self
-- 605. Can Place Flowers
-- 345. Reverse Vowels of a String
-- 443. String Compression
-- 283. Move Zeroes
-- 1679. Max Number of K-Sum Pairs
-- 334. Increasing Triplet Subsequence
-- 11. Container With Most Water
-- 392. Is Subsequence
+- 1768 - Merge Strings Alternatively
+- 151 - Reverse Words in a String
+- 1071 - Greatest Common Divisor of Strings
+- 1431 - Kids with greatest number of candies
+- 238 - Product of Array except self
+- 605 - Can Place Flowers
+- 345 - Reverse Vowels of a String
+- 443 - String Compression
+- 283 - Move Zeroes
+- 1679 - Max Number of K-Sum Pairs
+- 334 - Increasing Triplet Subsequence
+- 11 - Container With Most Water
+- 392 - Is Subsequence
+- 643 - Maximum Average Subarray I
 
 ## Language
 - Python
