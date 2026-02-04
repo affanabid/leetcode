@@ -25,6 +25,7 @@ I am currently following the **LeetCode 75** study plan and solving **two proble
 - 643 - Maximum Average Subarray I
 - 1456 - Maximum Number of Vowels in a Substring of Given Length
 - 1493 - Longest Subarray of 1's After Deleting One Element
+- 2215 - Find the Difference of Two Arrays
 
 ## Language
 - Python
