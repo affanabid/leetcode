@@ -27,6 +27,7 @@ I am currently following the **LeetCode 75** study plan and solving **two proble
 - 1493 - Longest Subarray of 1's After Deleting One Element
 - 2215 - Find the Difference of Two Arrays
 - 1207 - Unique Number of Occurrences
+- 2390 - Removing Stars From a String
 
 ## Language
 - Python
