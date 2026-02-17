@@ -28,6 +28,7 @@ I am currently following the **LeetCode 75** study plan and solving **two proble
 - 2215 - Find the Difference of Two Arrays
 - 1207 - Unique Number of Occurrences
 - 2390 - Removing Stars From a String
+- 328 - Odd Even Linked List
 
 ## Language
 - Python
