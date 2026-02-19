@@ -31,7 +31,7 @@ I am currently following the **LeetCode 75** study plan and solving **two proble
 - 328 - Odd Even Linked List
 - 2095 - Delete the Middle Node of a Linked List
 - 2130 - Maximum Twin Sum of a Linked List
-
+- 735 - Asteroid Collision
 ## Language
 - Python
 
