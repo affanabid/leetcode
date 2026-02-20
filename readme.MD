@@ -33,6 +33,7 @@ I am currently following the **LeetCode 75** study plan and solving **two proble
 - 2130 - Maximum Twin Sum of a Linked List
 - 735 - Asteroid Collision
 - 104 - Maximum Depth of Binary Tree
+- 872 - Leaf-Similar Trees
 
 ## Language
 - Python
