@@ -32,6 +32,8 @@ I am currently following the **LeetCode 75** study plan and solving **two proble
 - 2095 - Delete the Middle Node of a Linked List
 - 2130 - Maximum Twin Sum of a Linked List
 - 735 - Asteroid Collision
+- 104 - Maximum Depth of Binary Tree
+
 ## Language
 - Python
 
