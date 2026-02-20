@@ -34,6 +34,7 @@ I am currently following the **LeetCode 75** study plan and solving **two proble
 - 735 - Asteroid Collision
 - 104 - Maximum Depth of Binary Tree
 - 872 - Leaf-Similar Trees
+- 1448 - Count Good Nodes in Binary Tree
 
 ## Language
 - Python
