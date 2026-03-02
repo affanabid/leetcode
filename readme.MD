@@ -36,6 +36,7 @@ I am currently following the **LeetCode 75** study plan and solving **two proble
 - 872 - Leaf-Similar Trees
 - 1448 - Count Good Nodes in Binary Tree
 - 199 - Binary Tree Right Side View
+- 724 - Find Pivot Index
 
 ## Language
 - Python
