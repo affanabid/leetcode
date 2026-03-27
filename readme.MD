@@ -39,6 +39,8 @@ I am currently following the **LeetCode 75** study plan and solving **two proble
 - 724 - Find Pivot Index
 - 1161 - Maximum Level Sum of a Binary Tree
 - 933 - Number of Recent Calls
+- 136- Single Number
+
 
 ## Language
 - Python
