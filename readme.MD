@@ -40,7 +40,7 @@ I am currently following the **LeetCode 75** study plan and solving **two proble
 - 1161 - Maximum Level Sum of a Binary Tree
 - 933 - Number of Recent Calls
 - 136- Single Number
-
+- 374- Guess Number Higher or Lower
 
 ## Language
 - Python
